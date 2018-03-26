@@ -1,5 +1,6 @@
 <?php 
-namespace Ceva;
+namespace Viorel/Ceva;
+
 class Altceva
 {
     public static function write()

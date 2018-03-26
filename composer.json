@@ -1,12 +1,11 @@
 {
-    "name": "ceva",
-    "type": "library",
+    "name": "viorel/ceva",
     "require": {
         "php": ">=5.3.0"
     },
-    "autoload": {
-        "files": [
-        "src/Altceva.php"
-    ]
-    }
+    "autoload" : {
+        "psr-0" : {
+            "Viorel\\Ceva\\" : "src"
+        }
+    },
 }
