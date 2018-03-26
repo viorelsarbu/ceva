@@ -1,5 +1,5 @@
 <?php 
-namespace Viorel/Ceva;
+namespace Viorel\Ceva;
 
 class Altceva
 {
