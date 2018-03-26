@@ -7,4 +7,9 @@ class Altceva
     {
         return 'Hello World, Composer!';
     }
+
+    public function __construct()
+    {
+
+    }
 }
